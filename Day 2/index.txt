@@ -1,0 +1,8 @@
+-------------------------Tages---------------------
+h1 - h6 (heading)
+p (Paragraf)
+b (bold)
+i (itenion)
+sup (niche ke side )
+sub (power)
+br (brekline)

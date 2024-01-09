@@ -1,0 +1,8 @@
+--------------------------Tags-------------------------
+hr (horizental line)
+ol (Order List)
+ul (unorder list)
+li (list item)
+img (img tag)
+a (link)
+

@@ -1,0 +1,7 @@
+-----------------FlexBox-----------------------
+
+(1) jab bhi kinhi do ya do se jyada elements ko alg bagal karana hoto FlexBos use krte hai.
+
+(2) Jinhe agal bagal krna hai unhe koi baatcheet nhi hogi but unke parent ko Flexbox banaate hai. (display:flex)
+
+(3) aling item jo hoti hai vo hight me work krti or justify content width ke liye work krti

@@ -1,0 +1,7 @@
+-----------------------Tags------------------------
+
+form
+input
+div
+id (#) id diffrent name se bnayi jati hai but id name same rhega to work to krega lekin vo incorrect hoga
+class (.) class ko ham same name se kr skte hai
